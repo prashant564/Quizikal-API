@@ -1,0 +1,4461 @@
+[
+  {
+    "category": "Art & Literature",
+    "question": "Which Shakespearean Character Has The Most Lines",
+    "answer": "Hamlet",
+    "itemid": "317"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who killed Macbeth?",
+    "answer": "Macduff",
+    "itemid": "418"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Was The Name Of Charles Dickens Last Novel Unfinished At His Death",
+    "answer": "The Mystery Of Edwin Drood",
+    "itemid": "453"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who is associated with the address 221B Baker Street, London ?",
+    "answer": "Sherlock Holmes",
+    "itemid": "458"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What is the fourth book in the Harry Potter series",
+    "answer": "The Goblet Of Fire",
+    "itemid": "501"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "For What Is Dame Margott Fonteyn Famous",
+    "answer": "Ballet Dancing",
+    "itemid": "502"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A realistic style of painting in which everyday life forms the subject matter, as distinguished from religious or historical painting.",
+    "answer": "Genre painting",
+    "itemid": "736"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "On what book was 'Three Days Of The Condor' based?",
+    "answer": "Six Days Of The Condor",
+    "itemid": "885"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "From the Hebrew word for 'prophet'. A group of French painters active in the 1890s who worked in a subjective, sometimes mystical style, stressing flat areas of color and pattern.",
+    "answer": "Nabis",
+    "itemid": "917"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote Great Expectations?",
+    "answer": "Charles Dickens",
+    "itemid": "1036"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A termed coined by British art critic Roger Fry to refer to a group of nine-teenth century painters, who were dissatisfied with the limitations of impressionism. It has since been used to refer to various reactions against impressionism, such as fauvism and expressionism.",
+    "answer": "Postimpressionism",
+    "itemid": "1134"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Co-Wrote (Yeoman Of The Guard), (Lolanthe And The Mikado)",
+    "answer": "Gilbert & Sullivan",
+    "itemid": "1181"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "From which Shakespeare play is this line taken: Goodnight, goodnight! parting is such sweet sorrow, That I should say goodnight till it be morrow.",
+    "answer": "Romeo and juliet",
+    "itemid": "1195"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Author Wrote The Sound & The Fury, The Wild Palms, And As I Lay Dying",
+    "answer": "William Faulkner",
+    "itemid": "1198"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What was H.G Wells' first novel?",
+    "answer": "The Time Machine",
+    "itemid": "1560"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "This statue was found on the Greek island of Melos in 1820.",
+    "answer": "Venus de milo",
+    "itemid": "1650"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "French impressionist Claude _____",
+    "answer": "Monet",
+    "itemid": "1733"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Which Story Does The Schoolboy (Piggy) Star",
+    "answer": "Lord Of The Flies",
+    "itemid": "1791"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A band of painted or sculpted decoration, often at the top of a wall.",
+    "answer": "Frieze",
+    "itemid": "1830"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Famous Book 'A Brief History Of Time'' In 1988?",
+    "answer": "Stephen Hawking",
+    "itemid": "2120"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In one of Donald Horne's novels, as what was Australia dubbed?",
+    "answer": "The lucky country",
+    "itemid": "2175"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Three main types of Greek columns are Doric, Ionic, and __________.",
+    "answer": "Corinthian",
+    "itemid": "2236"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Are The March Sisters Names In Louisa M Alcotts (Little Woman)",
+    "answer": "Jo, Meg Beth & Amy",
+    "itemid": "2276"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In which book did four ghosts visit Scrooge?",
+    "answer": "A Christmas Carol",
+    "itemid": "2321"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Is The Name Of The Russian National Ballet",
+    "answer": "The Kirov Ballet",
+    "itemid": "2459"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In 'Romeo and Juliet', about what was Mercutio's long monologue?",
+    "answer": "Queen Mab",
+    "itemid": "2533"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Books (The Firm) And (The Pelican Brief) Both Of Which Were Made Into Films?",
+    "answer": "John Grisham",
+    "itemid": "3174"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which US author penned the novels \"Of Mice and Men\" and \"East Of Eden\"?",
+    "answer": "John Steinbeck",
+    "itemid": "3300"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote the shortest ever letter ?",
+    "answer": "Victor Hugo",
+    "itemid": "3374"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "His many Romantic odes include 'Ode to Melancholy' and 'Ode to a Graecian Urn'",
+    "answer": "John Keats",
+    "itemid": "3440"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Created Lord Peter Wimsey",
+    "answer": "Dorothy L Sayers",
+    "itemid": "3480"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Under What Pen Name Did Hector Hugh Munro Write",
+    "answer": "Saki",
+    "itemid": "3735"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Water-soluble paint made from pigments and a plastic binder…?",
+    "answer": "Acrylic",
+    "itemid": "3825"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Swifts Gullivers Travels What Is Gullivers Profession",
+    "answer": "Surgeon",
+    "itemid": "3873"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A method of watercolor painting, but prepared with a more gluey base, producing a less transparent effect.",
+    "answer": "Gouache",
+    "itemid": "3974"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who created Sherlock Holmes ?",
+    "answer": "Sir Arthur Conan Doyle",
+    "itemid": "3993"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Dr. Seuss wrote this book: The Cat in the______.",
+    "answer": "Hat",
+    "itemid": "4167"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Sculptor Produced A Lobster Telephone",
+    "answer": "Salvador Dali",
+    "itemid": "4182"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Which Century Did Artists First Start Painting On Canvas",
+    "answer": "15th Century",
+    "itemid": "4309"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Name the author of 'The Catcher in the Rye'",
+    "answer": "J.D. Salinger",
+    "itemid": "4480"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "The surrealist painter Salvador Dali was a native of which country?",
+    "answer": "Spain",
+    "itemid": "4521"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What is the name of the main character in Homer's Odyssey?",
+    "answer": "Odysseus",
+    "itemid": "4657"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "\"Our Town\" is a play by whom?",
+    "answer": "Thornton Wilder",
+    "itemid": "4726"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Poet Wrote No Verse During His Time As Poet Laureate",
+    "answer": "William Wordsworth",
+    "itemid": "4729"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Thriller Writers Works Include (The Dark Eyes Of London, Four Just Men & Sanders Of The River)",
+    "answer": "Edgar Wallace",
+    "itemid": "4776"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What controversial book did Germaine Greer write?",
+    "answer": "The Female Eunuch",
+    "itemid": "4783"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Was The Merchant In Shakespear's (The Merchant Of Venice)",
+    "answer": "Antonio",
+    "itemid": "4966"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A Russian abstract movement originated by Malevich c. 1913. It was characterized by flat geometric shapes on plain backgrounds and emphasized the spiritual qualities of pure form.",
+    "answer": "Suprematism",
+    "itemid": "5161"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "How is Samuel Clemens better known ?",
+    "answer": "Mark Twain",
+    "itemid": "5348"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In What Work Does The HAL 9000 Appear",
+    "answer": "2001, A Space Odyssey",
+    "itemid": "5365"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Was Samuel Clemens Better Known As",
+    "answer": "Mark Twain",
+    "itemid": "5407"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Is Tthe Ballet Term For Spinning On One Foot",
+    "answer": "A Piroutte",
+    "itemid": "5493"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Character Created By Dodie Smith Drove A Black & White Car & Wore A Black & White Fur Coat?",
+    "answer": "Cruella De Vil",
+    "itemid": "5499"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who was the author of 'Dracula'?",
+    "answer": "Bram Stoker",
+    "itemid": "5604"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "This man was Time magazine's 1938 \"Man of the Year\"",
+    "answer": "Adolf hitler",
+    "itemid": "5780"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What is the opposite of an utopia?",
+    "answer": "Dystopia",
+    "itemid": "5849"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In painting, the degree of lightness or darkness in a color.",
+    "answer": "Values",
+    "itemid": "5956"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who is the author of \"Harry Potter\" ?",
+    "answer": "Joan Rowling",
+    "itemid": "5964"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who painted the Mona Lisa",
+    "answer": "Leonardo da vinci",
+    "itemid": "6103"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "From which Shakespeare play is this line taken: Double, double",
+    "answer": "Macbeth",
+    "itemid": "6115"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote 'The Time Machine'?",
+    "answer": "H.G. Wells",
+    "itemid": "6193"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote 'To Kill A Mockingbird'?",
+    "answer": "Harper Lee",
+    "itemid": "6397"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "This book, Oscar Wilde's only novel, was used as evidence in his sodomy trial?",
+    "answer": "The Picture of Dorian Gray",
+    "itemid": "6674"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Which Country Was John Constable Born",
+    "answer": "Suffolk",
+    "itemid": "6811"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "\"The Diary of Anne Frank\" was first published in English under what title",
+    "answer": "The diary of a young girl",
+    "itemid": "6924"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Penned The 1999 Autobiography (Managing My Life)?",
+    "answer": "Alex Ferguson",
+    "itemid": "6936"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Famous Gothic Novel Was Written By Mary Shelley",
+    "answer": "Frankenstein",
+    "itemid": "7010"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "From which Shakespeare play is this line taken: What in a name That which we call a rose, by any other name would smell as sweet.",
+    "answer": "Romeo and juliet",
+    "itemid": "7380"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "This magazine used to boast a circulation of 7,777,777.",
+    "answer": "Better homes and gardens",
+    "itemid": "7401"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Which City Is The Encyclopediaa Britanica Published",
+    "answer": "Chicago",
+    "itemid": "7461"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Was Shakespear's Last Completed Play",
+    "answer": "The Tempest",
+    "itemid": "7570"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Famous Sculptor Was Refused Entry ToThe French Academy 3 Times",
+    "answer": "August Rodin",
+    "itemid": "7592"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Stephen King Novel Is Set At The Overlook Hotel?",
+    "answer": "The Shining",
+    "itemid": "7633"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "An etching tecnique in which a solution of asphalt or resin is used on the plate. It produces prints with rich, gray tones.",
+    "answer": "Aquatint",
+    "itemid": "7669"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Dutch master painted 64 self-portraits?",
+    "answer": "Rembrandt",
+    "itemid": "7811"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Author's Father Was Imprisoned For Debt",
+    "answer": "Charles Dickens",
+    "itemid": "8058"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Womens magazine launched by New York in the 70's.",
+    "answer": "Ms",
+    "itemid": "8069"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote 'The Rose Tattoo'?",
+    "answer": "Tennessee Williams",
+    "itemid": "8226"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Where Was El Grecho Born",
+    "answer": "Crete",
+    "itemid": "8435"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A movement of the 1960s and 1970s that emphasized the artistic idea over the art object. It attempted to free art from the confines of the gallery and the pedestal.",
+    "answer": "Conceptual art",
+    "itemid": "8439"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A late-nineteenth-century French school of painting. It focused on transitory visual impressions, often painted directly from nature, with an emphasis on the changing effects of light and color.",
+    "answer": "Impressionism",
+    "itemid": "8592"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which English Writer Divided His Novels Into 3 Categories, Novels Of Character & Environment, Romances & Fantasies & Novels Of Ingenuity",
+    "answer": "Thomas Hardy",
+    "itemid": "8610"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Where is the Louvre located",
+    "answer": "Paris",
+    "itemid": "8749"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Sherlock Holmes lived at 221b _____ street?",
+    "answer": "Baker",
+    "itemid": "8836"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In sculpture, the projection of an image or form from its background. Sculpture formed in this manner is described as high relief or low relief (bas-relief), depending on the degree of projection. In painting or drawing, the apparent projection of parts conveying the illusion of three dimensions.",
+    "answer": "Relief",
+    "itemid": "9287"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Novels 'The Hunt For Red October'' And 'Clear And Present Danger''",
+    "answer": "Tom Clancy",
+    "itemid": "9311"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A figurative movement that emerged in the United States and Britain in the late 1960s and 1970s. The subject matter, usually everyday scenes, is portrayed in an extremely detailed, exacting style. It is also called superrealism, especially when referring to sculpture.",
+    "answer": "Photorealism",
+    "itemid": "9383"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A painting technique using pigments mixed with egg yolk and water. It produces clear, pure colors.",
+    "answer": "Tempera",
+    "itemid": "9389"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "From which Shakespeare play is this line taken: \"What in a name? That which we call a rose, by any other name would smell as sweet.\"",
+    "answer": "Romeo and Juliet",
+    "itemid": "9401"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who created Winnie the Pooh?",
+    "answer": "A. A. Milne",
+    "itemid": "9447"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Homer wrote this account of the Trojan War.",
+    "answer": "Iliad",
+    "itemid": "9471"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who won a Pulitzer Prize for Angela's Ashes?",
+    "answer": "Frank McCourt",
+    "itemid": "9591"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Is Novelist Helen Fieldings Most Famous Character?",
+    "answer": "Bridget Jones",
+    "itemid": "9665"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "How Many Tales Are There In Chaucers Canterbury Tales",
+    "answer": "23",
+    "itemid": "10014"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote \"Animal Farm\"?",
+    "answer": "George Orwell",
+    "itemid": "10037"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who writes the discworld novels?",
+    "answer": "Terry Pratchett",
+    "itemid": "10057"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "An abstract movement in Europe and the United States, begun in the mid-1950s, based on the effect of optical patterns.",
+    "answer": "Op art",
+    "itemid": "10264"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Name The Philadelphian Artist Who Introduced The World To (Pop Art)",
+    "answer": "Andy Warhol",
+    "itemid": "10292"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Algerian Born French Authors Works Included L'Etranger & La Peste",
+    "answer": "Albert Camus",
+    "itemid": "10449"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What were the dolls in the novel 'Valley Of The Dolls'?",
+    "answer": "Pills",
+    "itemid": "10511"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote the 'Dragonriders Of Pern' series?",
+    "answer": "Anne McCaffrey",
+    "itemid": "10562"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which novel by Michael Crichton was (best selling paperback) in 1993",
+    "answer": "Jurassic Park",
+    "itemid": "10592"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who is the author of \"Brave New World\" ?",
+    "answer": "Aldous Huxley",
+    "itemid": "10706"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What was Lestat's last name?",
+    "answer": "De Lioncourt",
+    "itemid": "10720"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who was the human companion of Willow?",
+    "answer": "Mad Mardigan",
+    "itemid": "10824"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Penned the Novel 'The Pelican Brief'' That Was Made Into A Film Starring Julia Roberts And Denzil Washington?",
+    "answer": "John Grisham",
+    "itemid": "10863"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Type Of Animal Is Rupert The Bears Best Friend Bill?",
+    "answer": "Badger",
+    "itemid": "10870"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which poet, in his \"Elegy Written in a Country Churchyard\" told us that \"Full many a flower is born to blush unseen / And waste its sweetnes on the desert air.\"?",
+    "answer": "Thomas Gray",
+    "itemid": "10909"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Are The Christian Names Of JK Rowling Author Of The Harry Potter Books?",
+    "answer": "Joanne Kathleen",
+    "itemid": "10959"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In The Book The Secret Diary Of Adrian Mole, What Was The Name Of Adrian's Girllfriend",
+    "answer": "Pandora",
+    "itemid": "10965"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote The Canterbury Tales?",
+    "answer": "Geoffrey Chaucer",
+    "itemid": "11221"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who did Macduff kill?",
+    "answer": "Macbeth",
+    "itemid": "11228"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "How Old Was Adrian Mole When He Began Writing His Secret Diary",
+    "answer": "13 & Three Quarters",
+    "itemid": "11349"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What other name does Stephen King write under?",
+    "answer": "Richard Bachman",
+    "itemid": "11388"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Stephen King's: \"Salem's _________\".",
+    "answer": "Lot",
+    "itemid": "11429"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Famous Book Contains The Line 'Once Upon A Time There Was A Little Chimney Sweep And His Name Was Tom'",
+    "answer": "The Water Babies",
+    "itemid": "11491"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Is The Earliest Known Drawing Medium",
+    "answer": "Charcoal",
+    "itemid": "11535"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Told Stories About Brer Rabbit & Brer Fox",
+    "answer": "Uncle Remus",
+    "itemid": "11609"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Where Is The Louvre",
+    "answer": "Paris, France",
+    "itemid": "11650"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Is The Most Performed Opera In The UK",
+    "answer": "La Boheme",
+    "itemid": "11767"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Whose First Collection Of Short Stories Entitled In Our Time Was Published In 1925",
+    "answer": "Ernest Hemmingway",
+    "itemid": "12115"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Word Created By JK Rowling Gained Entry Into The Oxford English Dictionary In 2003?",
+    "answer": "Muggle",
+    "itemid": "12352"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which British Artist Is Noted For His Numerous Paintings Of Horses",
+    "answer": "George Stubbs",
+    "itemid": "12430"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote (Robinsonn Crusoe)",
+    "answer": "Daniel Defoe",
+    "itemid": "12456"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Author of \"The Lighthouse\" and \"Eminent Victorians\"?",
+    "answer": "Virginia Woolf",
+    "itemid": "12604"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In which British national daily newspaper does Rupert The Bear appear?",
+    "answer": "The Daily Express",
+    "itemid": "12719"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which French Authors Novel Germinal Depicts Life In A Mining Community",
+    "answer": "Emile Zola",
+    "itemid": "12769"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Was Shakespeare's First Play",
+    "answer": "Henry VI",
+    "itemid": "12918"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which novel by Mary Shelley was subtitled 'The Modern Prometheus'?",
+    "answer": "Frankenstein",
+    "itemid": "13081"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Was The Name Of The Author Who Released A Guide To Baby And Child Care In 1946",
+    "answer": "Dr Spock (No Kidding)",
+    "itemid": "13107"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "How many plays is Shakespeare generally credited with today",
+    "answer": "37",
+    "itemid": "13284"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Dance Is Associated With Vienna",
+    "answer": "The Waltz",
+    "itemid": "13450"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Which Shakespeare play contains the line 'if music be the food of love play on''?",
+    "answer": "Twelfth Night",
+    "itemid": "13658"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In Which Book Which Is Also A Film Has The Characters Pod, Arrietty, Homily & Peagreen?",
+    "answer": "The Borrowers",
+    "itemid": "13679"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Gothic Novel Dracula",
+    "answer": "Bram Stoker",
+    "itemid": "13908"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Irish playwright and author, wrote \"The Importance of Being Ernest\" and \"A Picture of Dorian Grey\" among others?",
+    "answer": "Oscar Wilde",
+    "itemid": "13941"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What is the name of Gandalf's horse",
+    "answer": "Shadowfax",
+    "itemid": "14069"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "He penned the founding novel of the utopian genre, \"Utopia.\"?",
+    "answer": "Sir Thomas More",
+    "itemid": "14132"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who is karen Blixen better known as?",
+    "answer": "Isaak Dinesen",
+    "itemid": "14135"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What book is the film Blade Runner based on ?",
+    "answer": "Do Androids Dream of Electric Sheep",
+    "itemid": "14261"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Meaning 'fool the eye' in french. In painting, the fine, detailed rendering of objects to convey the illusion that the painted forms are real and three-dimensional.",
+    "answer": "Trompe l'oeil",
+    "itemid": "14323"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In what field of study would you find \"flying buttresses\"?",
+    "answer": "Architecture",
+    "itemid": "14652"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote the novel \"The Strange Case of Dr. Jekyll and Mr Hyde\" ?",
+    "answer": "Stevenson",
+    "itemid": "14678"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "answer": "Geoffrey Chaucer",
+    "itemid": "14720"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "A group of English painters formed in 1848. These artists attempted to recapture the style of painting preceding Raphael. They rejected industrialized England and focused on painting from nature, producing detailed, colorful works.",
+    "answer": "Pre-Raphaelite Brotherhood",
+    "itemid": "14820"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Tin Tin Stories",
+    "answer": "(Georges Remi ) Herge",
+    "itemid": "14855"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Gulag Archipelago",
+    "answer": "Alexander Solzhenitsyn",
+    "itemid": "14886"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "In what field of study would you find \"flying buttresses\"",
+    "answer": "Architecture",
+    "itemid": "14978"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "What Nationality Was Jospeh Conrad",
+    "answer": "Polish",
+    "itemid": "14979"
+  },
+  {
+    "category": "Art & Literature",
+    "question": "Who Wrote The Play (The Mousetrap)",
+    "answer": "Agatha Christie",
+    "itemid": "14980"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the actor who played the leading role in \"The Good, the Bad, and the Ugly\".",
+    "answer": "Clint Eastwood",
+    "itemid": "218"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who took dictation from Perry Mason?",
+    "answer": "Della Street",
+    "itemid": "245"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where are Rocket J. Squirel and Bullwinkle Moose from",
+    "answer": "Frostbite falls",
+    "itemid": "246"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Charles Boyer inspired a cartoon skunk. Who?",
+    "answer": "Pepe le Pew",
+    "itemid": "251"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What job was Sting before he was a rock star?",
+    "answer": "Teacher",
+    "itemid": "271"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who hosted the 1997 Grammy Awards?",
+    "answer": "Ellen Degeneres",
+    "itemid": "316"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who portrayed Han Solo in \"Star Wars\"?",
+    "answer": "Harrison Ford",
+    "itemid": "324"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was John Wayne's real name?",
+    "answer": "Marion Morrison",
+    "itemid": "336"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'That's Alright Mama'?",
+    "answer": "Elvis Presley",
+    "itemid": "366"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What song by Don McLean talks about the day Buddy Holly died?",
+    "answer": "American Pie",
+    "itemid": "399"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played George Costanza on 'Seinfeld'?",
+    "answer": "Jason Alexander",
+    "itemid": "504"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name of the restaurant the TV series \"Happy Days\"?",
+    "answer": "Arnolds",
+    "itemid": "584"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Charlie in Charlies Angels?",
+    "answer": "John Forsythe",
+    "itemid": "648"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'Beat It'?",
+    "answer": "Michael Jackson",
+    "itemid": "911"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who invented the synthesiser ?",
+    "answer": "Bob Moog",
+    "itemid": "922"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Don Rickles' nickname?",
+    "answer": "Mr. Warmth",
+    "itemid": "954"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Besides the Stones, which group had the longest touring career until the founder's death in 1995?",
+    "answer": "The Grateful Dead",
+    "itemid": "981"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who killed Kenny?",
+    "answer": "They",
+    "itemid": "1112"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In 1987, who released her second album 'Solitude Standing'?",
+    "answer": "Suzanne Vega",
+    "itemid": "1120"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Singer Paula ______?",
+    "answer": "Abdul",
+    "itemid": "1174"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The eldest sister in the TV Series Charmed, is played by who?",
+    "answer": "Shannon Doherty",
+    "itemid": "1228"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Snoopy's arch enemy?",
+    "answer": "The Red Baron",
+    "itemid": "1238"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who directed the classic thriller 'The Birds'?",
+    "answer": "Alfred Hitchcock",
+    "itemid": "1251"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where does Yogi Bear Live?",
+    "answer": "Jellystone Park",
+    "itemid": "1436"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film 'American Hot Wax', who did Jay Leno play?",
+    "answer": "Mookie",
+    "itemid": "1646"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the longest running musical in Broadway history?",
+    "answer": "Cats",
+    "itemid": "1660"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which comic strip was banned from \"Stars and Stripes\"?",
+    "answer": "Beetle Bailey",
+    "itemid": "1686"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the 'Nightmare On Elm Street' films, who played Freddy Krueger?",
+    "answer": "Robert Englund",
+    "itemid": "1736"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who collaborated with John Lennon on 'Whatever Gets You Through The Night'?",
+    "answer": "Elton John",
+    "itemid": "1828"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where did Clark Kent attend college?",
+    "answer": "Metropolis University",
+    "itemid": "1836"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the address of The Munsters?",
+    "answer": "1313 Mockingbird Lane",
+    "itemid": "1841"
+  },
+  {
+    "category": "Entertainment",
+    "question": "For which ad campaign was the line 'I can't believe I ate the whole thing' used?",
+    "answer": "Alka Seltzer",
+    "itemid": "1919"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which films are about the Corleone family?",
+    "answer": "The Godfather films",
+    "itemid": "1950"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Tinky winky, Dipsy LaLa and Po are know as what?",
+    "answer": "The Teletubbies",
+    "itemid": "1976"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What famous animal character called \"Skull Island\" home?",
+    "answer": "King Kong",
+    "itemid": "2034"
+  },
+  {
+    "category": "Entertainment",
+    "question": "How many flats are in the key of B flat major?",
+    "answer": "Two",
+    "itemid": "2056"
+  },
+  {
+    "category": "Entertainment",
+    "question": "When danger appeared, Quick Draw McGraw became which super hero?",
+    "answer": "El KaBong",
+    "itemid": "2064"
+  },
+  {
+    "category": "Entertainment",
+    "question": "An alien creature in a funny hat has opposed both Bugs Bunny and Daffy Duck. Where is he from?",
+    "answer": "Mars",
+    "itemid": "2109"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Forrest ____ liked shrimp.",
+    "answer": "Gump",
+    "itemid": "2111"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This was the first cartoon talking picture.",
+    "answer": "Steamboat Willie",
+    "itemid": "2131"
+  },
+  {
+    "category": "Entertainment",
+    "question": "When danger appeared, Quick Draw McGraw became which super hero",
+    "answer": "El kabong",
+    "itemid": "2192"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What film was the last featuring Mel Blanc's voice?",
+    "answer": "Jetsons",
+    "itemid": "2282"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What film starred Helen Hunt, Cary Elwes and Bill Paxton?",
+    "answer": "Twister",
+    "itemid": "2313"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the TV series 'The Fall Guy', who did Lee Majors play?",
+    "answer": "Colt Seavers",
+    "itemid": "2336"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Tess Trueheart married which plainclothes detective",
+    "answer": "Dick tracy",
+    "itemid": "2396"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who founded 'Live Aid' and 'Band Aid'?",
+    "answer": "Bob Geldof & Midge Ure",
+    "itemid": "2423"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Scooby Doo's nephew??",
+    "answer": "Scrappy Doo",
+    "itemid": "2508"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What hardcore rock group sings, 'Blind' and 'Clown'?",
+    "answer": "Korn",
+    "itemid": "2600"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What city do Batman and Robin patrol?",
+    "answer": "Gotham City",
+    "itemid": "2677"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What did Dorothy's house land on in 'The Wizard Of Oz'?",
+    "answer": "The Wicked Witch of the West",
+    "itemid": "2721"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is the lead singer of the Rolling Stones?",
+    "answer": "Mick Jagger",
+    "itemid": "2724"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Gordon Sumner better known as?",
+    "answer": "Sting",
+    "itemid": "2810"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Clyde to Faye Dunaway's Bonnie?",
+    "answer": "Warren Beatty",
+    "itemid": "2814"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Light My Fire, Love Her Madly\"?",
+    "answer": "The Doors",
+    "itemid": "2816"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Hanna_Barbera rose to fame by creating what duo for MGM",
+    "answer": "Tom and jerry",
+    "itemid": "2901"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who's first release was 'Talking Heads 77'?",
+    "answer": "Psycho Killer",
+    "itemid": "2945"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Kermit D Frog's girlfriend's name?",
+    "answer": "Miss Piggy",
+    "itemid": "2954"
+  },
+  {
+    "category": "Entertainment",
+    "question": "After who was Deana Carter named?",
+    "answer": "Dean Martin",
+    "itemid": "2959"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Tina Turner's real name?",
+    "answer": "Anne Mae Bullock",
+    "itemid": "3037"
+  },
+  {
+    "category": "Entertainment",
+    "question": "His films include: Spartacus, The Vikings, and Ulysses.",
+    "answer": "Kirk Douglas",
+    "itemid": "3105"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What comic strip character is Beetle Bailey's sister?",
+    "answer": "Lois (of Hi and Lois)",
+    "itemid": "3221"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Blondie's maiden name",
+    "answer": "Oop",
+    "itemid": "3277"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who released a chart-busting album in 1976 which featured 'The Lido Shuffle'?",
+    "answer": "Boz Scaggs",
+    "itemid": "3342"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Lucy's maiden name on 'I Love Lucy'?",
+    "answer": "McGillicuddy",
+    "itemid": "3344"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What were Wilma Flintstone and Betty Rubble's maiden names?",
+    "answer": "Slaghoople and Mcbricker",
+    "itemid": "3557"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name of Ashley Wilkes' plantation in \"Gone With the Wind\"?",
+    "answer": "Twelve Oaks",
+    "itemid": "3648"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who says, \"Th_th_th_that's all folks!\"",
+    "answer": "Porky pig",
+    "itemid": "3662"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In what did someone squish her hands to make the sound of e.t walking?",
+    "answer": "Jelly",
+    "itemid": "3824"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Steve Erkel in 'Family Matters'?",
+    "answer": "Jaleel White",
+    "itemid": "3835"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of the film in which Steven Segal's character dies?",
+    "answer": "Executive Decision",
+    "itemid": "3870"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who wrote the opera 'The Giant'?",
+    "answer": "Sergei Prokofiev",
+    "itemid": "4139"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who wrote the oprea 'La Traviata'?",
+    "answer": "Guiseppe Verdi",
+    "itemid": "4146"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Band: Elvis Costello and the ___________ ?",
+    "answer": "Attractions",
+    "itemid": "4210"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What country singer/songwriter (and sometimes actor) is known as \"the country outlaw\"?",
+    "answer": "Willie Nelson",
+    "itemid": "4237"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This movie starring Marlon Brando won the best picture award in 1972.",
+    "answer": "The Godfather",
+    "itemid": "4365"
+  },
+  {
+    "category": "Entertainment",
+    "question": "When not fighting crime, what did Underdog do for a living?",
+    "answer": "Shoeshine boy",
+    "itemid": "4406"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In what city does Fat Albert live",
+    "answer": "Philadelphia",
+    "itemid": "4501"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Tippi Hedren's daughter?",
+    "answer": "Melanie Griffith",
+    "itemid": "4730"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In which opera does Leporello entertain a vengeful jilted lover?",
+    "answer": "Don Giovanni",
+    "itemid": "4899"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name Li'l Abner's favorite Indian drink.",
+    "answer": "Kickapoo joy juice",
+    "itemid": "4929"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which of Paul Simon's musical characters was told to hop on the bus?",
+    "answer": "Gus",
+    "itemid": "5173"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who said 'you'd be surprised how much it costs to look this cheap'?",
+    "answer": "Dolly Parton",
+    "itemid": "5249"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Heart of Glass, The Tide is High\"?",
+    "answer": "Blondie",
+    "itemid": "5279"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Dr. Frankenfurter in the pop-culture film 'The Rocky Horror Picture Show?",
+    "answer": "Tim Curry",
+    "itemid": "5300"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the drummer's name in 'The Muppet Show'?",
+    "answer": "Animal",
+    "itemid": "5338"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the TV series 'Seinfeld', who does Michael Richards play?",
+    "answer": "Kramer",
+    "itemid": "5383"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is a Hurdy-Gurdy?",
+    "answer": "A Fiddle",
+    "itemid": "5405"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Forgiven Not Forgotten, Runaway\"?",
+    "answer": "The Coors",
+    "itemid": "5434"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Group of heroes led by Dick Grayson",
+    "answer": "New titans",
+    "itemid": "5435"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which actor said, \"Love means never having to say you're sorry\"?",
+    "answer": "Ryan O'Neil",
+    "itemid": "5445"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This was the sequel to \"The Empire Strikes Back\".",
+    "answer": "Return of the Jedi",
+    "itemid": "5486"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The Hard Rock Cafe is named after a song by what band?",
+    "answer": "The Doors",
+    "itemid": "5572"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the TV series 'Seinfeld', who plays Kramer?",
+    "answer": "Michael Richards",
+    "itemid": "5650"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang with 'The Dakotas'?",
+    "answer": "Billy J. Kramer",
+    "itemid": "5698"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This film starring Richard Beymer and Natalie Wood won the best picture Oscar for 1961.",
+    "answer": "West Side Story",
+    "itemid": "5750"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of the Family Circus's dog",
+    "answer": "Barf",
+    "itemid": "5772"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Formerly with Spencer Davis, he went on to form Traffic with Dave Mason. He is?",
+    "answer": "Steve Winwood",
+    "itemid": "5856"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the Gene Pitney how many hours was it from Tulsa?",
+    "answer": "24",
+    "itemid": "5930"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is tattooed on Glen Campbell's arm?",
+    "answer": "Dagger",
+    "itemid": "5948"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Fat Albert and friends was created by ______ ?",
+    "answer": "Bill Cosby",
+    "itemid": "5968"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sings and plays the theme song for the TV show 'Frasier'?",
+    "answer": "Kelsey Grammer",
+    "itemid": "6006"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Matt Helm in the movies?",
+    "answer": "Dean Martin",
+    "itemid": "6018"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In which London recording studios did The Beatles record the majority of their work?",
+    "answer": "Abbey Road",
+    "itemid": "6171"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is married to Eddie Van Halen?",
+    "answer": "Valerie Bertanelli",
+    "itemid": "6221"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who married Mutt Lange?",
+    "answer": "Shania Twain",
+    "itemid": "6271"
+  },
+  {
+    "category": "Entertainment",
+    "question": "At the end of \"Planet of the Apes\" what protruded from the rocks?",
+    "answer": "Statue of Liberty",
+    "itemid": "6307"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Turn, Side and Why does it always rain on me are all songs from what UK band?",
+    "answer": "Travis",
+    "itemid": "6381"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the Oscar-winning theme song from \"Breakfast at Tiffany's\"?",
+    "answer": "Moon River",
+    "itemid": "6383"
+  },
+  {
+    "category": "Entertainment",
+    "question": "John Travolta, Samuel Jackson, Uma Thurman starred in which 1994 Quentin Tarantino film?",
+    "answer": "Pulp Fiction",
+    "itemid": "6389"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Keanu Reeves' computer world alias in 'The Matrix'?",
+    "answer": "Neo",
+    "itemid": "6396"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'Good Morning To You?",
+    "answer": "Mildred and Patty Hill",
+    "itemid": "6434"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who plays the character of the only escapee from Alcatraz in the movie \"The Rock\"?",
+    "answer": "Sean Connery",
+    "itemid": "6483"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Nick Nolte and Eddie Murphy star in this 1982 film.",
+    "answer": "48 Hours",
+    "itemid": "6511"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of the whale that swallowed Pinocchio.",
+    "answer": "Monstro",
+    "itemid": "6524"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Dr. Kildare?",
+    "answer": "Richard Chamberlain",
+    "itemid": "6603"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What entertainer is allowing one of his songs to be used in a government campaign to beat drunk driving?",
+    "answer": "Michael Jackson",
+    "itemid": "6645"
+  },
+  {
+    "category": "Entertainment",
+    "question": "An Andy Panda cartoon gave birth to a famous, cantankerous bird. Name him.",
+    "answer": "Woody woodpecker",
+    "itemid": "6666"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Film Title: The Last Days of _________. (a city)",
+    "answer": "Pompeii",
+    "itemid": "6683"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which 1960's group sang a song inspired by 'Alice In Wonderland'?",
+    "answer": "The Jefferson Airplane",
+    "itemid": "6745"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who produced 'Sgt Pepper's Lonely Hearts Club Band'?",
+    "answer": "George Martin",
+    "itemid": "6785"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Famous Phrases: Who knows The ______.",
+    "answer": "Shadow",
+    "itemid": "6793"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name of Speed Racer's car?",
+    "answer": "The Mach Five",
+    "itemid": "6796"
+  },
+  {
+    "category": "Entertainment",
+    "question": "White Room' was a hit off which Eric Clapton album?",
+    "answer": "Cream",
+    "itemid": "6812"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Blondie's maiden name?",
+    "answer": "Oop",
+    "itemid": "6836"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Mickey Mouse is known as what in Italy?",
+    "answer": "Topolino",
+    "itemid": "6857"
+  },
+  {
+    "category": "Entertainment",
+    "question": "An adventurous penguin named Tennessee Tuxedo had a sidekick named _______?",
+    "answer": "Chumley",
+    "itemid": "6905"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In 1962 Chubby Checker had a hit with a pop song and novelty dance that remains famous today. What was that dance?",
+    "answer": "The Twist",
+    "itemid": "6938"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Kenny G's real surname?",
+    "answer": "Gorelick",
+    "itemid": "6999"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film 'The Day Of The Jackal', who played the Jackal?",
+    "answer": "Edward Fox",
+    "itemid": "7008"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where does Gonzo from the Muppet Show come from?",
+    "answer": "Outer space",
+    "itemid": "7073"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which character sang, \"When you wish upon a star..\" in Disney's \"Pinocchio\"?",
+    "answer": "Jiminy Cricket",
+    "itemid": "7171"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the apartments the Jetson's live in.",
+    "answer": "The skypad apartments",
+    "itemid": "7190"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Kelsey Grammer sings and plays the theme song for which TV show?",
+    "answer": "Frasier",
+    "itemid": "7273"
+  },
+  {
+    "category": "Entertainment",
+    "question": "As what is Merle Haggard also known as?",
+    "answer": "Okie from Muskogee",
+    "itemid": "7314"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name Alvin & Simon's brother was ________",
+    "answer": "Theo",
+    "itemid": "7328"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film 'Pretty Woman', for who was Goldie Hawn the body double?",
+    "answer": "Julia Roberts",
+    "itemid": "7436"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who did Pat Sajak play on the soapie 'Days Of Our Lives'?",
+    "answer": "Kevin Hathaway",
+    "itemid": "7527"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Film Title: An Officer and a(n) _________.",
+    "answer": "Gentleman",
+    "itemid": "7529"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What film marked James Cagney's return to the screen after 20 years?",
+    "answer": "Ragtime",
+    "itemid": "7610"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the town that Fred, Wilma, Barney, and Betty lived in.",
+    "answer": "Bedrock",
+    "itemid": "7836"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who says, \"Th-th-th-that's all folks!\"",
+    "answer": "Porky Pig",
+    "itemid": "7840"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What term is used for the speed at which a piece of music is played ?",
+    "answer": "Tempo",
+    "itemid": "7847"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played the lead in the movie \"The Mask\"?",
+    "answer": "Jim Carrey",
+    "itemid": "7951"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'Mull of Kintyre'?",
+    "answer": "Wings",
+    "itemid": "7993"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What film did John Wayne win his only Oscar for?",
+    "answer": "True Grit",
+    "itemid": "8021"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Porky Pig had a girlfriend named ________.",
+    "answer": "Petunia",
+    "itemid": "8087"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang Puff The Magic Dragon?",
+    "answer": "Peter, Paul and Mary",
+    "itemid": "8173"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who patrols Gotham City?",
+    "answer": "Batman and Robin",
+    "itemid": "8262"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang the song \"Pretty Woman?\"",
+    "answer": "Roy Orbison",
+    "itemid": "8326"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This female artist enjoyed sucess on both popular and country & western stations with such tunes as \"Let Me Be There\" and \"Have You Never Been Mellow.\"",
+    "answer": "Olivia Newton-John",
+    "itemid": "8347"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played the first James Bond?",
+    "answer": "Sean Connery",
+    "itemid": "8366"
+  },
+  {
+    "category": "Entertainment",
+    "question": "How does Wonder Woman control her invisible airplane?",
+    "answer": "Mental powers",
+    "itemid": "8371"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the original voice of Mickey Mouse",
+    "answer": "Walt disney",
+    "itemid": "8416"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where did George of the Jungle live?",
+    "answer": "Imgwee Gwee Valley",
+    "itemid": "8522"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Dennis the Menace's last name?",
+    "answer": "Mitchell",
+    "itemid": "8528"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The film \"Crouching Tiger, Hidden Dragon\" takes place in which dynasty (- the ' )",
+    "answer": "Ching",
+    "itemid": "8532"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Before Olive Oil met Popeye she was engaged to someone. Who was he",
+    "answer": "Ham gravyzzcomment: olive oyl was wrong, jono82 said",
+    "itemid": "8667"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is lead guitarist for Guns'n'Roses?",
+    "answer": "Slash",
+    "itemid": "8715"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the only songwriter to win the Eurovision Song Contest twice?",
+    "answer": "Johnny Logan",
+    "itemid": "8734"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The maiden names of which two cartoon characters are Slaghoople and Mcbricker?",
+    "answer": "Wilma Flintstone and Betty Rubble",
+    "itemid": "9007"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the first cartoon to feature sound?",
+    "answer": "Steamboat Willie",
+    "itemid": "9046"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where does Yogi Bear Live",
+    "answer": "Jellystone park",
+    "itemid": "9116"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The song \"Matchmaker, Matchmaker\" came from which musical play?",
+    "answer": "Fiddler On The Roof",
+    "itemid": "9140"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which 1980's Pink Floyd album was made into a film that starred Bob Geldof, and featured the artwork of cartoonist Gerald Scarfe?",
+    "answer": "The Wall",
+    "itemid": "9277"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was used for blood in the film 'psycho'?",
+    "answer": "Chocolate syrup",
+    "itemid": "9350"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played Hopalong Cassidy?",
+    "answer": "William Boyd",
+    "itemid": "9400"
+  },
+  {
+    "category": "Entertainment",
+    "question": "A graphical representation of the guitar fingerboard, used to teach someone to play a guitar without actually learning how to read musical notes.?",
+    "answer": "Tablature",
+    "itemid": "9479"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What famous singer was known to give automobiles to complete strangers?",
+    "answer": "Elvis Presley",
+    "itemid": "9556"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played the title role in the 'Mad Max' series of films?",
+    "answer": "Mel Gibson",
+    "itemid": "9683"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What came out of Milton's head",
+    "answer": "Steam",
+    "itemid": "9736"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Benny and Cecil were at odds with whom?",
+    "answer": "John",
+    "itemid": "9802"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'Bad Case Of Loving You'?",
+    "answer": "Robert Palmer",
+    "itemid": "9922"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where do Rocky and Bullwinkle play football?",
+    "answer": "What'samatta University",
+    "itemid": "9935"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name of the two space shuttles in 'Armegeddon'?",
+    "answer": "Freedom and Independence",
+    "itemid": "10011"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the frontman of Nirvana?",
+    "answer": "Kurt Cobain",
+    "itemid": "10055"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In 1975 Jack Nicholson won the best actor Oscar for his role in this film.",
+    "answer": "One Flew Over the Cuckoo's Nest",
+    "itemid": "10102"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Get Down & Get With It, Mama We're All Crazy Now\"?",
+    "answer": "Slade",
+    "itemid": "10109"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who recorded the 1969 hit \"Space Oddity\"?",
+    "answer": "David Bowie",
+    "itemid": "10162"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who directed the film 'Ordinary People'?",
+    "answer": "Robert Redford",
+    "itemid": "10185"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who played the title role in the 1978 version of 'Superman'?",
+    "answer": "Christopher Reeve",
+    "itemid": "10201"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Marilyn Monroe's given name at birth?",
+    "answer": "Norma Jean Mortenson",
+    "itemid": "10213"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who began his professional career with Black Sabbath?",
+    "answer": "Ozzy Osbourne",
+    "itemid": "10267"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the sexy star of Barberella?",
+    "answer": "Jane Fonda",
+    "itemid": "10302"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the official birthplace of country music?",
+    "answer": "Bristol",
+    "itemid": "10411"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who wrote the song 'Do They Know It's Christmas' with Midge Ure?",
+    "answer": "Bob Geldof",
+    "itemid": "10414"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What instrument does Woody Allen play?",
+    "answer": "Clarinet",
+    "itemid": "10462"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film 'Home Alone', who played the baddies?",
+    "answer": "Joe Pesci and Daniel Stern",
+    "itemid": "10491"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name Dennis the Menace's next door neighbors.",
+    "answer": "Mr and Mrs Wilson",
+    "itemid": "10500"
+  },
+  {
+    "category": "Entertainment",
+    "question": "To gradually decrease in volume?",
+    "answer": "Decrescendo",
+    "itemid": "10553"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who are the lead singers of the band \"Full Metal Racquets\"?",
+    "answer": "John Mcenroe and Pat Cash",
+    "itemid": "10653"
+  },
+  {
+    "category": "Entertainment",
+    "question": "He wrote the operas \"The Magic Flute\" and \"The Marriage of Figaro\"",
+    "answer": "Wolfgang Amadeus Mozart",
+    "itemid": "10721"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In 'La Traviata', who sings 'Sempre Libera'?",
+    "answer": "Violetta",
+    "itemid": "10747"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What do the initials B.B. stand for in B.B. King's name?",
+    "answer": "Blues Boy",
+    "itemid": "10762"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the musical film named after a state.",
+    "answer": "Oklahoma",
+    "itemid": "10765"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which magician did Lothar assist?",
+    "answer": "Mandrake",
+    "itemid": "10875"
+  },
+  {
+    "category": "Entertainment",
+    "question": "On what T.V. show could Tom Terrific be found?",
+    "answer": "Captain Kangaroo",
+    "itemid": "11157"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Ben Stiller's character called in 'Mystery Men'?",
+    "answer": "Mr. Furious",
+    "itemid": "11239"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of Yogi Bear's best freind",
+    "answer": "Boo Boo",
+    "itemid": "11327"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'Rescue Me'?",
+    "answer": "Fontella Bass",
+    "itemid": "11348"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Betty Grable's nickname?",
+    "answer": "The Legs",
+    "itemid": "11375"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Psycho Killer, Road To Nowhere\"?",
+    "answer": "Talkingheads",
+    "itemid": "11424"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name Alley Oop's girl friend.",
+    "answer": "Oola",
+    "itemid": "11426"
+  },
+  {
+    "category": "Entertainment",
+    "question": "French impressionist Claude _______",
+    "answer": "Debussy",
+    "itemid": "11441"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the TV sitcom 'Married With Children', what is the dog's name?",
+    "answer": "Buck",
+    "itemid": "11551"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the first voice of Mickey Mouse?",
+    "answer": "Walt Disney",
+    "itemid": "11621"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where does young Anakin Skywalker come from?",
+    "answer": "Tatooine",
+    "itemid": "11667"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name Cathy's on again/off again boy friend?",
+    "answer": "Irving",
+    "itemid": "11671"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Where do Rocky and Bullwinkle play football",
+    "answer": "What'samatta u niversity",
+    "itemid": "11677"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was Dick Dastardley's pet",
+    "answer": "Muttley",
+    "itemid": "11730"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which famous male actor made his name in 'I Dream Of Jeannie'?",
+    "answer": "Larry Hagman",
+    "itemid": "11874"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What actress has received the most Oscar nominations?",
+    "answer": "Katherine Hepburn",
+    "itemid": "11928"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who sang 'In The Air Tonight'?",
+    "answer": "Phil Collins",
+    "itemid": "11954"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which of Beethoven's symphonies was the legendary \"Incomplete\"?",
+    "answer": "The 9th Symphony",
+    "itemid": "12035"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Bugs always finds himself at the wrong end of a gun, usually toted by either Elmer Fudd or who",
+    "answer": "Yosemite sam",
+    "itemid": "12039"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Let's Stick Together, The Price of Love\"?",
+    "answer": "Bryan Ferry",
+    "itemid": "12041"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name given to the type of West Indian music made famous by artists such as Bob Marley and Peter Tosh?",
+    "answer": "Reggae",
+    "itemid": "12155"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film 'American Hot Wax', who played the 'Mookie'?",
+    "answer": "Jay Leno",
+    "itemid": "12317"
+  },
+  {
+    "category": "Entertainment",
+    "question": "A set of graduated steel bars set in a frame and hit with a hammer, used in the orchestra.",
+    "answer": "Glockenspiel",
+    "itemid": "12367"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What did George Harrison discover on the Witwatersrand?",
+    "answer": "Gold",
+    "itemid": "12373"
+  },
+  {
+    "category": "Entertainment",
+    "question": "For whom did Colonel Tom Parker act as manager?",
+    "answer": "Elvis Presley",
+    "itemid": "12468"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Tess Trueheart married which plainclothes detective?",
+    "answer": "Dick Tracy",
+    "itemid": "12591"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of Pearce Brosnan's first James Bond film?",
+    "answer": "Goldeneye",
+    "itemid": "12606"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who did the voices of Bugs Bunny, Sylvester and Tweety Pie?",
+    "answer": "Mel Blanc",
+    "itemid": "12791"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What does the term 'DJ' mean?",
+    "answer": "Disc Jockey",
+    "itemid": "12808"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Vanilla Ice's real name?",
+    "answer": "Robert van Winkle",
+    "itemid": "12826"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the dog in the Yankee Doodle cartoons.",
+    "answer": "Chopper",
+    "itemid": "12885"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Before Olive Oil met Popeye she was engaged to someone. Who was he?",
+    "answer": "Ham Gravy",
+    "itemid": "13013"
+  },
+  {
+    "category": "Entertainment",
+    "question": "How many strings are there on a bass guitar?",
+    "answer": "Four",
+    "itemid": "13053"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Sally Brown's sweet baboo?",
+    "answer": "Linus",
+    "itemid": "13104"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who wrote the opera 'norma'?",
+    "answer": "Vincenzo Bellini",
+    "itemid": "13111"
+  },
+  {
+    "category": "Entertainment",
+    "question": "In the film \"Bright Eyes\", Shirley Temple sang about this boat.",
+    "answer": "The Good Ship Lollipop",
+    "itemid": "13162"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is Reginald Dwight known as?",
+    "answer": "Elton John",
+    "itemid": "13318"
+  },
+  {
+    "category": "Entertainment",
+    "question": "She starred in the 1952 film, \"Niagara\".",
+    "answer": "Marilyn Monroe",
+    "itemid": "13365"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who does the voice for Yoda in the Star Wars films?",
+    "answer": "Frank Oz",
+    "itemid": "13457"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who is stationed at Camp Swampy in the comic strips?",
+    "answer": "Beetle Bailey",
+    "itemid": "13492"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who starred in the film 'The Man With Two Brains'?",
+    "answer": "Steve Martin",
+    "itemid": "13500"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which planet was the \"Planet of the Apes\"?",
+    "answer": "Earth",
+    "itemid": "13516"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was Eric Claptons Nick Name?",
+    "answer": "Slowhand",
+    "itemid": "13540"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What two words are normally at the end of most movies?",
+    "answer": "The End",
+    "itemid": "13562"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name given to the popular genre of rock that arose in the Pacific Northwest (Seattle) in the early 1990s.",
+    "answer": "Grunge",
+    "itemid": "13567"
+  },
+  {
+    "category": "Entertainment",
+    "question": "This was the Beatle's first film.",
+    "answer": "A Hard Day's Night",
+    "itemid": "13647"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What do the initials of the band NIN stand for?",
+    "answer": "Nine Inch Nails",
+    "itemid": "13752"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which Beatle wrote The Octopus's song?",
+    "answer": "Ringo Starr",
+    "itemid": "13756"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who wrote the opera 'Tosca'?",
+    "answer": "Giacomo Puccini",
+    "itemid": "13773"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was always trying to get rent from Andy Capp?",
+    "answer": "Percy",
+    "itemid": "13809"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which band included rock greats Roy Orbison, Tom Petty, George Harrison, and Bob Dylan?",
+    "answer": "The Travelling Wilburys",
+    "itemid": "13961"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What movie starred Nicholas Cage and John Travolta, one as a police officer, the other as a villain?",
+    "answer": "Face Off",
+    "itemid": "13997"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was the oldest member of The Beatles?",
+    "answer": "Ringo Starr",
+    "itemid": "14151"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is Smokey Stover's job",
+    "answer": "Fireman",
+    "itemid": "14219"
+  },
+  {
+    "category": "Entertainment",
+    "question": "About which family are the Godfather films?",
+    "answer": "Corleone",
+    "itemid": "14316"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Current leader of Justice League America",
+    "answer": "Wonder woman",
+    "itemid": "14330"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the name of Duddley Do-Right's horse?",
+    "answer": "Horse",
+    "itemid": "14374"
+  },
+  {
+    "category": "Entertainment",
+    "question": "The two rival gangs in \"West Side Story\" were the Sharks and the _________.",
+    "answer": "Jets",
+    "itemid": "14435"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What is the title of the 1996 sequel to \"Terms of Endearment\"?",
+    "answer": "Morning Star",
+    "itemid": "14474"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who was Daisy the dog's owners",
+    "answer": "Blond",
+    "itemid": "14485"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Who recorded 'A Boy Named Sue'?",
+    "answer": "Johnny Cash",
+    "itemid": "14504"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What was the name of George of the Jungle's pet elephant?",
+    "answer": "Shep",
+    "itemid": "14669"
+  },
+  {
+    "category": "Entertainment",
+    "question": "What kind of dog is Scooby Doo",
+    "answer": "Great dane",
+    "itemid": "14676"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Name the band - songs include \"Baby I Don't Care, I Want Your Love\"?",
+    "answer": "Transvision Vamp",
+    "itemid": "14681"
+  },
+  {
+    "category": "Entertainment",
+    "question": "Which actor played the role of Chewbacca in the Star Wars trilogy?",
+    "answer": "Peter Mayhew",
+    "itemid": "14716"
+  },
+
+  {
+    "category": "Food & Drink",
+    "question": "The eggs of this sturgeon are the preferred form of caviar.",
+    "answer": "Beluga",
+    "itemid": "11"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What colour is chablis?",
+    "answer": "White",
+    "itemid": "25"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Where is the oldest distillery in the world?",
+    "answer": "The Old Bushmills, Cty Antrim",
+    "itemid": "30"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Singapore banned which popular western foodstuff because of litter implicatons?",
+    "answer": "Chewing Guim",
+    "itemid": "63"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following album 'Strange brew '",
+    "answer": "Cream",
+    "itemid": "145"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who In The World Of Music Has The Real Name Of Derek Dick",
+    "answer": "Fish",
+    "itemid": "287"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What do you get when you add fresh fruit to red wine",
+    "answer": "Sangria",
+    "itemid": "338"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which type of restaurant popularized the use of conveyor belts?",
+    "answer": "Sushi Restaurants",
+    "itemid": "412"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following 'edible' album 'Pretzel logic'",
+    "answer": "Steely Dan",
+    "itemid": "604"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Italian dish consiting of olives, anchovies, salami, celery, and appetizers.",
+    "answer": "Antipasto",
+    "itemid": "641"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Food That Is Permitted To Be Eaten Under Jewish Dietary Laws Is Known As What",
+    "answer": "Kosher",
+    "itemid": "669"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which contains more caffeine - coffee beans or tea leaves?",
+    "answer": "Tea Leaves",
+    "itemid": "703"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What drink is a mixture of brandy, egg yolks & vanilla?",
+    "answer": "Advocaat",
+    "itemid": "709"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Are The TV Chefs 'Simon King & David Myers'' More Commonly Known",
+    "answer": "The Hairy Bikers",
+    "itemid": "715"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Creme de Cacao, cream, and brandy make up which type of cocktail",
+    "answer": "Brandy Alexander",
+    "itemid": "746"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Dessert Consists Of Ice Cream Covered In Meringue And Baked In The Oven",
+    "answer": "Baked Alaska",
+    "itemid": "754"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What 'R'' Is The Name Given To A Picked Herring",
+    "answer": "Rolemop",
+    "itemid": "817"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the most common pub name in Great Britain?",
+    "answer": "The Red Lion",
+    "itemid": "827"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "This drink is made from espresso coffee, steamed milk and chocolate.",
+    "answer": "Mocha",
+    "itemid": "860"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Type Of Prepared Bread Is Named After An Opera Singer?",
+    "answer": "Melba Toast",
+    "itemid": "862"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What can you do after eating a garlic doused Indian meal in order to prevent your breath smelling of garlic the day after?",
+    "answer": "Drink a Lassie (yoghurt drink) to coat your throat",
+    "itemid": "895"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In 1999, which American retail giant announced that it was buying the Asda food retail chain?",
+    "answer": "Wal-Mart",
+    "itemid": "1106"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the minimum age for scotch whisky before it can be sold in the uk?",
+    "answer": "3 Years",
+    "itemid": "1197"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Ancient Central American Civilisation Were Drinking Chocolate Milk As Long Ago As 600 BC",
+    "answer": "Mayans",
+    "itemid": "1205"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Bourbon, sugar and mint make up which type of Cocktail",
+    "answer": "Mint Julep",
+    "itemid": "1300"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which dishes is sticky rice used?",
+    "answer": "Sushi",
+    "itemid": "1423"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Where was Budweiser first brewed?",
+    "answer": "St. Louis",
+    "itemid": "1461"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What European Country Is The consumer Of The Most Ice Cream",
+    "answer": "Sweden",
+    "itemid": "1476"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Sweetbread is derived from this organ.",
+    "answer": "Pancreas",
+    "itemid": "1485"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Food Stuff Has A Name Which Translates Into English As 'On A Skewer'?",
+    "answer": "Kebab",
+    "itemid": "1569"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which vegetable is the principal ingredient of rosti?",
+    "answer": "Potato",
+    "itemid": "1669"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In Which Country Was Gin Invented",
+    "answer": "Holland",
+    "itemid": "1692"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which fruit is used to make Calvados?",
+    "answer": "Apples",
+    "itemid": "1781"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Creme de Menthe and brandy make which cocktail?",
+    "answer": "A Stinger",
+    "itemid": "1818"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "After Who Was The Sandwich Named",
+    "answer": "The Earl Of Sandwich",
+    "itemid": "1870"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In Italy, if you were served pesce martello, what would you be about to eat?",
+    "answer": "Shark",
+    "itemid": "1880"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is A Ramekin",
+    "answer": "A Small Casserole Dish",
+    "itemid": "1892"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Name Of Which Chinese Dish Means 'Odds & Ends'",
+    "answer": "Chop Suey",
+    "itemid": "1954"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What was the first name of Senor Cardini, the Mexican restaurateur who created a classic salad in 1924?",
+    "answer": "Caesar",
+    "itemid": "2017"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What colour is creme de menthe?",
+    "answer": "Green",
+    "itemid": "2059"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Are Scallions",
+    "answer": "Spring Onions Or Shallots",
+    "itemid": "2068"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following 'edible' album 'Burnt weeny sandwich'",
+    "answer": "Frank Zappa",
+    "itemid": "2077"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "With what is champagne mixed to produce `Buck's Fizz'?",
+    "answer": "Orange Juice",
+    "itemid": "2146"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What soft drink is advertised with the slogan, What's the worst that could happen?",
+    "answer": "Dr Pepper",
+    "itemid": "2290"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What do Americans call what the British call an iced-lolly?",
+    "answer": "Popsicle",
+    "itemid": "2339"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Type Of Foodstuff Is Traditionally Eaten On Shrove Tuesday",
+    "answer": "Pancakes",
+    "itemid": "2362"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Process Where Food Browns During Cooking Is Known As The What",
+    "answer": "Maillard Reaction",
+    "itemid": "2409"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Principle Ingredient Of The Indian Dish Biryani",
+    "answer": "Rice",
+    "itemid": "2451"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Booze Name: Vodka, consomme, lemon, tabasco sauce, salt, pepper, celery salt.",
+    "answer": "Bullshot",
+    "itemid": "2489"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How would you say 'house wine' in 'French'",
+    "answer": "Vin (de la) maison",
+    "itemid": "2597"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Albumen The Correct Term For",
+    "answer": "Egg White",
+    "itemid": "2629"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What did Martin Stone invent in 1888 that millions of suckers use every day?",
+    "answer": "The Drinking Straw",
+    "itemid": "2640"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Rioja Wine Comes From Which Country",
+    "answer": "Spain",
+    "itemid": "2655"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What would you buy from a Bodega?",
+    "answer": "Wine",
+    "itemid": "2660"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Wine vinegar, egg white and what other ingredient goes into making hollandaise sauce?",
+    "answer": "Butter",
+    "itemid": "2699"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Italian Name For Squid In A Restaurant?",
+    "answer": "Calamari",
+    "itemid": "2815"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which order do you drink lemon, salt & tequila?",
+    "answer": "Salt, Tequila, Lemon",
+    "itemid": "2874"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Most Expensive Spice",
+    "answer": "Saffron",
+    "itemid": "3201"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which country would you expect to be served a yoghurt-based starter called 'tzatziki'?",
+    "answer": "Greece",
+    "itemid": "3311"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the chief food for half the people in the world?",
+    "answer": "Rice",
+    "itemid": "3335"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "A Cappuccino Coffee Is Named After What",
+    "answer": "Monks",
+    "itemid": "3417"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Cocktails: Cognac (brandy) and white creme de menthe make a(n) ____________·.",
+    "answer": "Stinger",
+    "itemid": "3504"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In Scotland Which Soup Is Traditionally Served On Burns Night",
+    "answer": "Cock-A-Leekie",
+    "itemid": "3539"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What does the phrase al dente mean?",
+    "answer": "Pasta cooked firm",
+    "itemid": "3615"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Does Vodka Actually Mean",
+    "answer": "Little Water",
+    "itemid": "3634"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Did Eggs Benedict Get It's Name",
+    "answer": "As A Cure For A Certain Mr Benedict's Hangover",
+    "itemid": "3688"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which countries would you find the following city 'Whiskeytown'?",
+    "answer": "USA",
+    "itemid": "3734"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Main Ingredient In Advocaat",
+    "answer": "Egg Yolk",
+    "itemid": "3774"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the most widely used seasoning",
+    "answer": "Salt",
+    "itemid": "3798"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the name of the two-coloured oblong cake covered in almond paste?",
+    "answer": "Battenburg",
+    "itemid": "3961"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the name of a small barrel of beer of nine gallons capacity?",
+    "answer": "A firkin",
+    "itemid": "3988"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "For what was licourice used in ancient Egypt?",
+    "answer": "Medicine",
+    "itemid": "4023"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which drink do you associate with Holy Island in Northumberland?",
+    "answer": "Lindisfarne Mead",
+    "itemid": "4082"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Laetrile is associated with the pit of which fruit?",
+    "answer": "Apricot",
+    "itemid": "4096"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "This spiny fruit with a pungent odor and rich yellow flesh is considered \"The King of Fruits\" by many southeast asians.",
+    "answer": "Durian",
+    "itemid": "4232"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Would You Be Drinking If You Were Given Earl Grey",
+    "answer": "Tea",
+    "itemid": "4287"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Laetrile is associated with the pit of which fruit",
+    "answer": "Apricot",
+    "itemid": "4320"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The mild stimulant \"theobromine\" is found in this common lip_smacker.",
+    "answer": "Chocolate",
+    "itemid": "4351"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which country is the wine making area of Stellenbosch?",
+    "answer": "South Africa",
+    "itemid": "4352"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Often drunk, this liquid is normally harvested from female cows",
+    "answer": "Milk",
+    "itemid": "4407"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In the year 2000, what was the most popular sweet brand in the UK - Rowntree Fruit Pastilles, Starburst or Polo Mints?",
+    "answer": "Polo Mints",
+    "itemid": "4423"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Type Of Fruit Is A Russet",
+    "answer": "An Apple",
+    "itemid": "4491"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "McDonald's 'Iced Tea' is actually this brand",
+    "answer": "Nestea",
+    "itemid": "4503"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Berries Of The Juniper Tree Are Used To Flavour Which Alcoholic Drink?",
+    "answer": "Gin",
+    "itemid": "4520"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Nation Eats The Most Chocolate Per Capita (Per Head)",
+    "answer": "Switzerland",
+    "itemid": "4542"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Caviar Is A Delicacy That Comes From Which Fish",
+    "answer": "Sturgeon",
+    "itemid": "4587"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following 'edible' album 'The spaghetti incident'",
+    "answer": "Guns & Roses",
+    "itemid": "4731"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Often eaten for breakfast, bacon is actually the flesh of what barnyard animal?",
+    "answer": "Pig",
+    "itemid": "4745"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Fruit Is Used In Making 'Creme de Cassis'",
+    "answer": "Blackcurrants",
+    "itemid": "4801"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What gives pasta its green colour?",
+    "answer": "Spinach",
+    "itemid": "4856"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the main ingredient of Tapanade?",
+    "answer": "Olives",
+    "itemid": "4908"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Sapporo is brewed in this country.",
+    "answer": "Japan",
+    "itemid": "4947"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The French call it Sabayon, what do the Italians call it?",
+    "answer": "Zabaglione",
+    "itemid": "5189"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many standard bottles of wine are in a Methuselah",
+    "answer": "Eight",
+    "itemid": "5256"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of sweets was American President Ronald Reagan known for having on his desk?",
+    "answer": "Jelly-beans",
+    "itemid": "5337"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which countrys does one associate with the following foods or drinks 'Dum Aloo'",
+    "answer": "India",
+    "itemid": "5381"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which soft drink was invented by the Nicholls family of Wythenshawe, near Manchester, during the 1900's and is sold in both still and sparkling forms?",
+    "answer": "Vimto",
+    "itemid": "5400"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Brand Of Pizza Was Also The Title Of A 1990 Movie",
+    "answer": "Goodfellas",
+    "itemid": "5442"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Alcoholic Ingredient In A Bloody Mary",
+    "answer": "Vodka",
+    "itemid": "5455"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Complete the classic advertising slogan 'Good Old Bertie Bassett_____'?",
+    "answer": "He's Britain's Greatest Asset",
+    "itemid": "5557"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Where Might You Drink The Wine Retsina",
+    "answer": "Greece",
+    "itemid": "5566"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What ingredient is added to wine to make port?",
+    "answer": "Brandy",
+    "itemid": "5663"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In Which Country Did The Cheese Emmanthal Originate Was It France, Switzerland, Denmark Or Belgium?",
+    "answer": "Switzerland",
+    "itemid": "5678"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Chablis comes from which French wine region?",
+    "answer": "Burgundy",
+    "itemid": "5686"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Annual Yield Of A Single Coffee Plant",
+    "answer": "1kg",
+    "itemid": "5689"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which vegetable has the most calories?",
+    "answer": "Avovado",
+    "itemid": "5776"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is A Boullabaisse",
+    "answer": "A French Fish Soup Or Stew",
+    "itemid": "5848"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Roast turkey: does white/dark meat have most calories?",
+    "answer": "Dark",
+    "itemid": "5890"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Salted and glazed biscuit shaped like a knot",
+    "answer": "Pretzel",
+    "itemid": "5912"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who had a number 1 record in 1963 with Sweets For My Sweet?",
+    "answer": "The Searchers",
+    "itemid": "5966"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who is the American artist who uses Campbell's Soup cans in his pop art?",
+    "answer": "Andy Warhol",
+    "itemid": "6000"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "From Which Country Does The Drink Tequila Originate?",
+    "answer": "Mexico",
+    "itemid": "6013"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What name is given to the unripe, ground or whole berries of Piper nigrum?",
+    "answer": "Black Pepper",
+    "itemid": "6112"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Popular in the Netherlands, what type of food is a frikandel?",
+    "answer": "A Sausage",
+    "itemid": "6132"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What two fruits grow on palm trees?",
+    "answer": "Coconuts and dates",
+    "itemid": "6179"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is a `rosti'?",
+    "answer": "A pancake of fried grated potatoes",
+    "itemid": "6188"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many herbs and spices are used in Kentucky Fried Chicken",
+    "answer": "Eleven",
+    "itemid": "6235"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What are the two main ingredients of a Hollandaise sauce?",
+    "answer": "Egg yolks and butter",
+    "itemid": "6316"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Does The Term 'A La Carte' Actually Mean",
+    "answer": "From The Menu",
+    "itemid": "6321"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "German dish with roast beef marinated in vinegar, sugar, and seasonings.",
+    "answer": "Sauerbraten",
+    "itemid": "6380"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Kind Of Fruit Is A Canteloupe?",
+    "answer": "Melon",
+    "itemid": "6405"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the most widely used seasoning?",
+    "answer": "Salt",
+    "itemid": "6409"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Meat Dish Was Named After A 19th Century Russian Count",
+    "answer": "Beef Stroganoff",
+    "itemid": "6436"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Name for an oblong cream puff filled and topped with icing.",
+    "answer": "Eclair",
+    "itemid": "6514"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following 'edible' album 'Tigermilk'",
+    "answer": "Belle and Sebastian",
+    "itemid": "6518"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Pumpernickel",
+    "answer": "A Type Of Bread",
+    "itemid": "6548"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which countries would you find the following city 'Cayenne'?",
+    "answer": "French Guyana",
+    "itemid": "6589"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Celebrity Chef Owns A Chain Of Restaurants Called 'Fifteen''",
+    "answer": "Jamie Oliver",
+    "itemid": "6640"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which fruit has the most calories per gram?",
+    "answer": "Avocado",
+    "itemid": "6685"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Nation Has The Sweetest Tooth",
+    "answer": "Holland",
+    "itemid": "6724"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Natural vanilla flavoring comes from this plant.",
+    "answer": "Orchid",
+    "itemid": "6763"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "French for 'flight in the wind'",
+    "answer": "Vol-au-vent",
+    "itemid": "6795"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Type Of Cheese Was Traditionally Made From Buffaloes Milk?",
+    "answer": "Mozzarella",
+    "itemid": "6877"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which fruit has the scientific name of malus pumulia?",
+    "answer": "The Apple",
+    "itemid": "6887"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What name was given to the light, clear wine developed in medieval times along the coastal valleys of the Gironde river in the Bordeaux region?",
+    "answer": "Claret",
+    "itemid": "6901"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The geometric shape found on the Bass Pale Ale bottle",
+    "answer": "Triangle",
+    "itemid": "6934"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the brewery featured in Coronation Street?",
+    "answer": "Newton and Ridley",
+    "itemid": "6963"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many bottles of `champagne' are there in a Nebuchadnezzar?",
+    "answer": "20 Bottles",
+    "itemid": "6968"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Savoy And Late Flat Dutch Are Both Varieties Of Which Vegetable?",
+    "answer": "Cabbage",
+    "itemid": "7016"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which of the following brands of drink sold the most in the UK in the year 2000 - Ribena, Lucozade or Tango?* *",
+    "answer": "Ribena",
+    "itemid": "7026"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which alcoholic beverage is advertised on TV by Tom the Dancing Cat?",
+    "answer": "Bacardi Breezer",
+    "itemid": "7082"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of drink is Perrier?",
+    "answer": "Mineral water",
+    "itemid": "7130"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "From Where Does Spaghetti Bolognese",
+    "answer": "Bologna",
+    "itemid": "7177"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which vegetable did President George Bush senior declare publicly that he did not like?",
+    "answer": "Broccoli",
+    "itemid": "7189"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Stimulant Present In Tea & Coffee",
+    "answer": "Caffeine",
+    "itemid": "7221"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What beer was promoted with the line: 'Probably the best lager in the world'?",
+    "answer": "Carlsberg",
+    "itemid": "7267"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Greek Feta cheese is made from the milk of which animal?",
+    "answer": "Ewe",
+    "itemid": "7293"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "This cut of beef lies between tenderloin & rump.",
+    "answer": "Sirloin",
+    "itemid": "7349"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Aspic",
+    "answer": "Jelly Made From Stock",
+    "itemid": "7433"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What colour top do bottles of unpasteurized milk have?",
+    "answer": "Green",
+    "itemid": "7443"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Queensland nut or bush nut is more commonly known as this.",
+    "answer": "Macadamia",
+    "itemid": "7459"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Popularised in the USA, Australia and New Zealand, which thick drink is made with fresh fruit pur?ed with milk, yoghurt, or ice cream?",
+    "answer": "Smoothie",
+    "itemid": "7553"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What part of a wine bottle is the punt?",
+    "answer": "The indentation in the base",
+    "itemid": "7555"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "French fries come from this country.",
+    "answer": "Belgium",
+    "itemid": "7591"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Poteen is a distilled spirit made in the West of Ireland. What is it made from?",
+    "answer": "Potatoes",
+    "itemid": "7629"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is made at St James's Gate in Dublin?",
+    "answer": "Guiness",
+    "itemid": "7654"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of milk is a basic ingredient of Thai cookery?",
+    "answer": "Coconut milk",
+    "itemid": "7677"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which French District Does Claret Come From",
+    "answer": "Bordeaux",
+    "itemid": "7771"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Carrots Are Rich In which Vitamin Is It A,B,C,D",
+    "answer": "A",
+    "itemid": "7814"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which country consumes more Coca Cola per head than anywhere else in the world?",
+    "answer": "Iceland",
+    "itemid": "7860"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which countries would you find the following city 'Tabasco'?",
+    "answer": "Mexico",
+    "itemid": "7863"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Dessert Has A Custard Base And A Burnt Caramelised Top?",
+    "answer": "Cr?me Brulee",
+    "itemid": "7875"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Does 'CAMRA' Stand For",
+    "answer": "The Campaign for Real Ales",
+    "itemid": "7921"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Supermarket Chain Uses Jamie Oliver To Advertise It's Products",
+    "answer": "Sainsburys",
+    "itemid": "7969"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Name the only fruit named for its color.",
+    "answer": "Orange",
+    "itemid": "8010"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Company that was purveyor of Vodka to the Imperial Russian Court (1886_1917)",
+    "answer": "Smirnoff",
+    "itemid": "8081"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of fish is in an omelette Arnold Bennett?",
+    "answer": "Smoked haddock",
+    "itemid": "8120"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many gallons are there in a firkin?",
+    "answer": "Nine",
+    "itemid": "8138"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Zima iz made in thiz United Statez city.",
+    "answer": "Memphis",
+    "itemid": "8143"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Finest Strands Of Pasta Are Known As What",
+    "answer": "Vermicelli",
+    "itemid": "8144"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "A Dining Chair With Arms Is Known As A What",
+    "answer": "Carver",
+    "itemid": "8212"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many pieces of bun are in a Mcdonald's Big Mac",
+    "answer": "Three",
+    "itemid": "8221"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the basic ingredient of the Indonesian dish Nasi Goreng?",
+    "answer": "Rice",
+    "itemid": "8473"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Ginger Like Root Crop Associated With Thai Cooking",
+    "answer": "Galangal",
+    "itemid": "8480"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Where was Budweiser first brewed",
+    "answer": "St Louis",
+    "itemid": "8513"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Does IPA Stand For",
+    "answer": "India Pale Ale",
+    "itemid": "8557"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "If you were served crudit?s as a starter before your main meal what would you be eating?",
+    "answer": "Sliced or shredded raw vegetables",
+    "itemid": "8601"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which red jelly is a traditional accompaniment to lamb?",
+    "answer": "Redcurrant",
+    "itemid": "8602"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Black Velvet",
+    "answer": "A Mixture Of Stout & Champagne",
+    "itemid": "8660"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How do you prevent a black rim forming round the yolk of a boiled egg?",
+    "answer": "Plunge into cold water after boiling",
+    "itemid": "8692"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What fruit flavour is used in crepes-suzette",
+    "answer": "Orange",
+    "itemid": "8717"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What sort of fish is a kipper?",
+    "answer": "Herring",
+    "itemid": "8813"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which village in County Antrim gives its name to a brand of Irish whiskey produced there and at a companion distillery in Coleraine?",
+    "answer": "Bushmills",
+    "itemid": "8903"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Karahi",
+    "answer": "A Type Of Wok Used In Asian Cooking",
+    "itemid": "9092"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Crushed grain, nuts and dried fruit",
+    "answer": "Muesli",
+    "itemid": "9222"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is pumpernickel?",
+    "answer": "German Black Bread",
+    "itemid": "9227"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Black German rye bread",
+    "answer": "Pumpernickel",
+    "itemid": "9248"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Sea Urchin Sushi Is Known As What In Japanese",
+    "answer": "Uni",
+    "itemid": "9267"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Italian city gave its name to a cheese and a type of ham?",
+    "answer": "Parma",
+    "itemid": "9372"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What do American's call an Aubergine?",
+    "answer": "Eggplant",
+    "itemid": "9385"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Do You Add To Advocat To Make A Snowball",
+    "answer": "Lemonade",
+    "itemid": "9425"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What fruit contains the most calories?",
+    "answer": "The Avocado Pear",
+    "itemid": "9443"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Wine Is Traditionally Matched With Pate And Brioche",
+    "answer": "Sauternes",
+    "itemid": "9496"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Naughtiness Drug' is an anagram of which drink?",
+    "answer": "Draught Guinness",
+    "itemid": "9504"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Apparently resembling a marine creature, which morsel of meat found in a fowl's back is reckoned by some to be the tastiest?",
+    "answer": "Oyster",
+    "itemid": "9537"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which cooking term is used to describe vegetables cut into very thin strips and cooked slowly in butter?",
+    "answer": "Julienne",
+    "itemid": "9553"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Armagnac Is A Brandy Originating From Which Part Of France",
+    "answer": "Gascony",
+    "itemid": "9585"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "According to some, 'Dutch courage' in battle came from the over consumption of what ?",
+    "answer": "Gin (Genever is Dutch for juniper)",
+    "itemid": "9780"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Term 'Dutch Courage' Usually Comes From The Consumption Of Which Spirit?",
+    "answer": "Gin",
+    "itemid": "9816"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Are More Nutritious Brown Or White Eggs",
+    "answer": "They Are Both The Same",
+    "itemid": "9864"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which contribution to western tea culture was introduced at the St. Louis world fair in 1904",
+    "answer": "Iced Tea",
+    "itemid": "9943"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Are You Doing If You Are Shucking An Oyster?",
+    "answer": "Opening It",
+    "itemid": "10053"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Percentage Of Total Production Does The Arabic Coffee Bean Represent",
+    "answer": "70%",
+    "itemid": "10087"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What are the two main ingredients of cock-a-leekie soup?",
+    "answer": "Boiling fowl and leeks.",
+    "itemid": "10182"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The two ingredients of a Black Velvet are stout and",
+    "answer": "Champagne",
+    "itemid": "10376"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What crop is attacked by the Colorado beatle?",
+    "answer": "Potato",
+    "itemid": "10444"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Are Petit Fours",
+    "answer": "Small Iced Cakes & Sweets",
+    "itemid": "10466"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Type Of Vegetable Is A Marrow Fat",
+    "answer": "A Pea",
+    "itemid": "10493"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which Dickens novel would one find this service 'United Metropolitan Improved Hot Muffin and Crumpet Baking and Punctual Delivery Company '",
+    "answer": "Nicholas Nickelby",
+    "itemid": "10499"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "A Chablis wine comes from which French wine region",
+    "answer": "Burgundy",
+    "itemid": "10518"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which brand of beer does Homer Simpson drink regularly?",
+    "answer": "Duff",
+    "itemid": "10521"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which popular beverage's name is German for 'to store' ?",
+    "answer": "Lager",
+    "itemid": "10577"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What kind of nuts are used in marzipan",
+    "answer": "Almonds",
+    "itemid": "10613"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Country Is The Source Of Stilton Cheese",
+    "answer": "England",
+    "itemid": "10690"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Animal Do You Obtain Venison From",
+    "answer": "Deer",
+    "itemid": "10703"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Rickets is caused by a lack of which vitamin?",
+    "answer": "Vitamin D",
+    "itemid": "10704"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "This meat is used to make scaloppine.",
+    "answer": "Veal",
+    "itemid": "10726"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Was The Original Name For The Sweets Now Known As Starbursts?",
+    "answer": "Opal Fruits",
+    "itemid": "10749"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Order Of Friars Is Coffee Topped With Steam Milk Named After",
+    "answer": "Capuchin",
+    "itemid": "10961"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "A.K.A juniper juice?",
+    "answer": "Gin",
+    "itemid": "10985"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Mexican dish with minced and seasoned meat packed in cornmeal and corn husks.",
+    "answer": "Tamale",
+    "itemid": "10990"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Australian Opera Singer had a dessert and a kind of bread named after her?",
+    "answer": "Nellie Melba ( Peach Melba, Melba Toast )",
+    "itemid": "10995"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Is wholemeal bread brown or white?",
+    "answer": "Brown",
+    "itemid": "11072"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Mustard, ketchup and onions on a hotdog are all types of what",
+    "answer": "Condiments",
+    "itemid": "11125"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Add this to milk, eggs, and sugar to make a Tom and Jerry.",
+    "answer": "Rum",
+    "itemid": "11159"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who invented the Egg Mcmuffin?",
+    "answer": "Ed Peterson",
+    "itemid": "11172"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "From which fruit is the liqueur Kirsh made?",
+    "answer": "Cherry",
+    "itemid": "11205"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Was Sweet Stout Known As Until Banned Under The Trade Description Act",
+    "answer": "Milk Stout",
+    "itemid": "11315"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "From which fruit is the liqueur Kirsh made",
+    "answer": "Cherry",
+    "itemid": "11323"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Vermicelli literally means ___________.",
+    "answer": "Little worms",
+    "itemid": "11346"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Legend says bats lived in the rum distillery and one of them is on the label.",
+    "answer": "Bacardi",
+    "itemid": "11355"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Are Tandoori Dishes Cooked",
+    "answer": "In A Clay Oven (Tandoor)",
+    "itemid": "11408"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which flavouring is added to brandy and egg yolks to make advocaat?",
+    "answer": "Vanilla",
+    "itemid": "11415"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "At which stage of a meal would you have an hors d'oeuvre?",
+    "answer": "Beginning",
+    "itemid": "11436"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The 18th amendment to the Constitution was introduced in 1919, repealed in 1933 and is the only one to have been repealed, what did it relate to?",
+    "answer": "Prohibition of alcohol",
+    "itemid": "11460"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the name given to the dish of fruit stewed or preserved in syrup?",
+    "answer": "Compote",
+    "itemid": "11484"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Vanilla Plant Is Native To Which Country",
+    "answer": "Mexico",
+    "itemid": "11486"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of food is Port Salut?",
+    "answer": "A Cheese",
+    "itemid": "11578"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Type Of Oranges Are Traditionally Used To Make Marmalade",
+    "answer": "Seville Oranges",
+    "itemid": "11619"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "By which name are English Truffles known?",
+    "answer": "Pignuts",
+    "itemid": "11625"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Many Million Barrels Of Beer Are Sold Annualy In The UK",
+    "answer": "36 Million",
+    "itemid": "11690"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Capers Are Derived From What",
+    "answer": "The Pickled Flower Buds Of A Mediterranean Plant",
+    "itemid": "11710"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Dish Of Rice, Flaked Fish And Hard Boiled Eggs Is Known As What",
+    "answer": "Kedegree",
+    "itemid": "11719"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who is `The Naked Chef'?",
+    "answer": "Jamie Oliver",
+    "itemid": "11728"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following album 'Whipped cream and other delights '",
+    "answer": "Herb Albert and the Tijuana brass",
+    "itemid": "11734"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Food Do You Use Up More Calories Eating Than You Gain Through Consumption?",
+    "answer": "Celery",
+    "itemid": "11778"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Country Consumes The Most Cornflakes",
+    "answer": "Ireland (Per Head)",
+    "itemid": "11799"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How would you serve Gezpacho Soup",
+    "answer": "Cold",
+    "itemid": "11833"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What name is given to a savoury of oysters wrapped in bacon slices, served on toast?",
+    "answer": "Angels on hoseback",
+    "itemid": "11858"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Italian Desert Made By Whisking Egg Yolks, Wine And Sugar Is More Commonly Known As What",
+    "answer": "Zabaglione",
+    "itemid": "11952"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Do The Initials U.H.T Refer To In Relation To Milk?",
+    "answer": "Ultra Heat Treated",
+    "itemid": "11984"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "If A Sparkling Wine Is Labelled As 'Brut' How Will It Taste",
+    "answer": "Dry",
+    "itemid": "12016"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the main vegetable ingredient of moussaka?",
+    "answer": "Aubergines",
+    "itemid": "12096"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "From which plant is tequila derived?",
+    "answer": "Cactus",
+    "itemid": "12101"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Wher Might You Be Offered Ouzo",
+    "answer": "Greece",
+    "itemid": "12146"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Name The Woman Who Was In The Vanguard Of Tv Crooks",
+    "answer": "Fanny Craddock",
+    "itemid": "12164"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Popular Breakfast Meat Bacon Comes From Which Type Of Animal",
+    "answer": "Pig",
+    "itemid": "12202"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Swedish Name For A Hot Or Cold Food Served As A Buffet?",
+    "answer": "Smorgasbord",
+    "itemid": "12249"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Are Globe And Jerusalam Both Examples Of",
+    "answer": "Artichoke",
+    "itemid": "12251"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is it called when fat and juices from the roasting tin are spooned over meat while it is cooking?",
+    "answer": "Basting",
+    "itemid": "12263"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Cocktails: Rum, lime, and cola drink make a(n) ____________.",
+    "answer": "Cuba libre",
+    "itemid": "12293"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Many Legs Does A Bombay Duck Have?",
+    "answer": "None Its A Fish!!",
+    "itemid": "12389"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is Japanese \"sake\" made from?",
+    "answer": "Rice",
+    "itemid": "12399"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Iceberg, Boston, and Bibb are types of What",
+    "answer": "Lettuce",
+    "itemid": "12524"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Small cubes of fried or toasted bread",
+    "answer": "Croutons",
+    "itemid": "12571"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is added to Whisky to make is Whisky Mac?",
+    "answer": "Giner Wine",
+    "itemid": "12582"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which countrys does one associate with the following foods or drinks 'Barmbrack'",
+    "answer": "Ireland",
+    "itemid": "12625"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which countrys does one associate with the following foods or drinks: 'Sachertorte'",
+    "answer": "Austria",
+    "itemid": "12626"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Booze Name: 1 1/2 oz. light rum, 1 lime, powdered sugar, fruit juice, blend w/crushed ice",
+    "answer": "Daiquiri",
+    "itemid": "12688"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which seed is the basic ingredient for tahina paste ?",
+    "answer": "Sesame",
+    "itemid": "12760"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What type of food is a bloomer?",
+    "answer": "Bread",
+    "itemid": "12818"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "A food labelled \"Florentine\" is prepared with this.",
+    "answer": "Spinach",
+    "itemid": "12822"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Name the dessert named after a Derbyshire town?",
+    "answer": "Bakewell tart",
+    "itemid": "12867"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who Was The First Man To Bring Cocoa Beans To Europe",
+    "answer": "Juan De Cardenas",
+    "itemid": "12870"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Country Drinks The Most Beer Per Annum",
+    "answer": "Germany",
+    "itemid": "12880"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which beer sponsors a pre-Wimbledon Tennis Tournament",
+    "answer": "Stella Artois",
+    "itemid": "12914"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What country is the largest consumer of beer per head?",
+    "answer": "Germany",
+    "itemid": "12915"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What vegetable did Mark Twain describe as 'Cabbage with a college education'?",
+    "answer": "Cauliflower",
+    "itemid": "12955"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How Many Gallons In A Firkin",
+    "answer": "9 Gallons",
+    "itemid": "12996"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is compote?",
+    "answer": "Fruit preserved or stewed in syrup",
+    "itemid": "13002"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Beef dish named after a 19th century Russian diplomat",
+    "answer": "Stroganoff",
+    "itemid": "13031"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Does 'Vol-au-vent' Actually Mean In French",
+    "answer": "Vol-Au-Vent Is French For 'Flying On The Wind' They Are Puff Pastry Cases",
+    "itemid": "13034"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which spirit is used to fortify red wine in creating port?",
+    "answer": "Brandy",
+    "itemid": "13036"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Subterranean Fungus Highly Prized In Cooking Is Known As What",
+    "answer": "Truffle",
+    "itemid": "13062"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Name the two dishes named after an opera singer?",
+    "answer": "Peach Melba, Melba Toast",
+    "itemid": "13108"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Booze Name: 2 oz. gin, juice of 1/2 lemon, 1 tsp sugar, top with soda water.",
+    "answer": "Gin fizz",
+    "itemid": "13213"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Booze Name: 1 oz. gin and 1 oz. orange juice.",
+    "answer": "Orange blossom",
+    "itemid": "13218"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "If you wanted your eggs fried without cooking the yolks, how should you order them in?",
+    "answer": "Sunny side up",
+    "itemid": "13240"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What TV sitcom about Liverpool family life did Carla Lane write?",
+    "answer": "Bread",
+    "itemid": "13273"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Lack of Vitamin D causes which disease?",
+    "answer": "Rickets",
+    "itemid": "13337"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In which country did Scampi Originate?",
+    "answer": "Italy",
+    "itemid": "13350"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the other ingredient in a pink gin?",
+    "answer": "Angostora Bitters",
+    "itemid": "13383"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Agar-agar is often used in cooking. What is it?",
+    "answer": "A type of gelatine",
+    "itemid": "13499"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which red jelly is a traditional accompaniment to lamb?",
+    "answer": "Redcurrant",
+    "itemid": "13530"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which village in Leicestershire gives its name to a hunt notorious among animal rights protesters and a food popular with vegetarians?",
+    "answer": "Quorn",
+    "itemid": "13609"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "According to Harry Belafonte, what kind of water is 'good for your daughter' ?",
+    "answer": "Coconut water",
+    "itemid": "13661"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Where were fortune cookies invented?",
+    "answer": "United States",
+    "itemid": "13743"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who released the following 'edible' album 'Flaming pie'",
+    "answer": "Paul McCartney",
+    "itemid": "13903"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is a cross between a blackberry and a raspberry?",
+    "answer": "Tayberry",
+    "itemid": "14040"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "I belong to the same family as the potato, and more of me are canned than any other fruit or vegetable. What am I?",
+    "answer": "Tomato",
+    "itemid": "14045"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "To What Plant Family Do The Radish & Turnip Belong",
+    "answer": "Mustard",
+    "itemid": "14055"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is the Swedish name for hot or cold dishes served as a buffet?",
+    "answer": "Smorgasboard",
+    "itemid": "14119"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Six ounces of orange juice contains the minimum daily requirement for which vitamin?",
+    "answer": "Vitamin C",
+    "itemid": "14124"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Main Ingrediant Of Guacamole?",
+    "answer": "Avacados",
+    "itemid": "14138"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What is another name for the carambula?",
+    "answer": "Star fruit",
+    "itemid": "14145"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Spice that a bartender would dust your Brandy Flip with",
+    "answer": "Nutmeg",
+    "itemid": "14200"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which citrus fruit, possibly a combination of sweet lime and sour orange, grows predominantly in Italy and is used in Earl Grey tea and eau de Cologne ?",
+    "answer": "Bergamot",
+    "itemid": "14224"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Hazelnut liqueur named for the mysterious monk that made it 300 years ago",
+    "answer": "Frangelico",
+    "itemid": "14275"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which countrys does one associate with the following foods or drinks: 'Kvass'",
+    "answer": "Russia",
+    "itemid": "14320"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What kind of nuts are used in marzipan",
+    "answer": "Almonds",
+    "itemid": "14351"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which sweet treat could be found at the Ambassador's parties?",
+    "answer": "Ferraro Rocher",
+    "itemid": "14458"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What nationality is the lager giant 'Grolsch'?",
+    "answer": "Dutch",
+    "itemid": "14460"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What words do SPAM take its name from?",
+    "answer": "Shoulder Pork And Ham",
+    "itemid": "14468"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is Black & Tan",
+    "answer": "A Mixture Of Beer & Stout",
+    "itemid": "14487"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which is Britain's top selling fruit flavoured soup?",
+    "answer": "Tomato",
+    "itemid": "14521"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "For What Drink Was Chicory A War Time Substitue",
+    "answer": "Coffee",
+    "itemid": "14525"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is The Main Ingredient Of The Spanish Dish Paella?",
+    "answer": "Aniseed",
+    "itemid": "14571"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Cocktails: Vodka, orange juice and Galliano make a(n) ___________.",
+    "answer": "Harvey Wallbanger",
+    "itemid": "14580"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which Bewer Produces Owd Roger",
+    "answer": "Marstons",
+    "itemid": "14620"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "In Regard To Food What Do The Initials 'GM'' Actually Stand For",
+    "answer": "Genetically Modified",
+    "itemid": "14629"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which sweets were reintroduced to Britain in1994 after a 10-year gap?",
+    "answer": "Spangles",
+    "itemid": "14657"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many teaspoons in a tablespoon (UK) ?",
+    "answer": "3",
+    "itemid": "14688"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Booze Name: A manhattan, but with scotch whiskey.",
+    "answer": "Rob roy",
+    "itemid": "14740"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Which drink, invented in 1886, was first marketed as the 'Esteemed Brain Tonic and Intellectual Beverage'?",
+    "answer": "Coca Cola",
+    "itemid": "14762"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What name is given to the aniseed flavoured spirit drunk in Turkey?",
+    "answer": "Raki",
+    "itemid": "14766"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "How many bottles of Champagne are there in a Magnum?",
+    "answer": "Two Bottles",
+    "itemid": "14768"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Even though it tastes nothing like grapes, a __________ is often eaten for breakfast.",
+    "answer": "Grapefruit",
+    "itemid": "14776"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "Who is McDonald's mascot(full name)",
+    "answer": "Ronald mcdonald",
+    "itemid": "14812"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What Is A Bouquet Garni",
+    "answer": "Mixed Herbs In A Perforated Sac",
+    "itemid": "14822"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "If you ordered Cherries Jubilee, how would you expect them to be cooked?",
+    "answer": "Flambeed (in kirsch)",
+    "itemid": "14854"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "What do you call the Irish dish of Mashed Potato's with chopped Spring Onions",
+    "answer": "Champ",
+    "itemid": "14915"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The Stomach Of A Cow Or Sheep Is Known As What",
+    "answer": "Tripe",
+    "itemid": "14953"
+  },
+  {
+    "category": "Food & Drink",
+    "question": "The dessert Pavlova is made from fresh fruit, cream and which other ingredient?",
+    "answer": "Meringue",
+    "itemid": "14996"
+  }
+]
