@@ -7,6 +7,6 @@ const { getAllTrivia } = require('../controllers/trivia');
 const Trivia = require('../models/Trivia');
 const advancedResults = require('../middleware/advancedResults');
 
-router.route('/').get(advancedResults(Trivia), getAllTrivia);
+router.route('/').get(getAllTrivia);
 
 module.exports = router;
