@@ -6,6 +6,5 @@ const Trivia = require('../models/Trivia');
 // @route    GET /api/v1/trivia
 // @access   Public
 exports.getAllTrivia = asyncHandler(async (req, res, next) => {
-  const trivia = await Trivia.find();
-  res.send(trivia);
+  res.json(res.advancedResults);
 });
